@@ -3,7 +3,7 @@ import {useEffect} from "react";
 import {useLocation, useNavigate} from "react-router";
 
 export const meta = () => ([
-    { title: 'Resumate | Auth' },
+    { title: 'Resumind | Auth' },
     { name: 'description', content: 'Log into your account' },
 ])
 
@@ -50,4 +50,4 @@ const Auth = () => {
     )
 }
 
-export default Auth
+export default Auth;

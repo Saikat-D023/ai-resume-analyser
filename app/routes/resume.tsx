@@ -87,4 +87,4 @@ const Resume = () => {
         </main>
     )
 }
-export default Resume
+export default Resume;
